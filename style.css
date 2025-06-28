@@ -1,0 +1,13 @@
+.hello {
+  color: blue;
+}
+
+body {
+  background-color: aqua;
+}
+
+h1 {
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+}
